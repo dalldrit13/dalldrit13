@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dalldrit13
+- 👋 Hi, I’m Devin Alldrit a developer in Toronto looking to change the world one line of code at a time
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Anything
